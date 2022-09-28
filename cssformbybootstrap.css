@@ -1,0 +1,28 @@
+.container-fluid{
+
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+form botton{
+  width: 400px;
+  border-radius: 30px;
+
+
+}
+form input, form textarea{
+  padding: 30px;
+  margin: 10px 0;
+  outline: none;
+  border: 0;
+
+}
+h1{
+  text-align: center;
+  font-family: cursive;
+  color: white;
+  font-weight: bolder;
+}
